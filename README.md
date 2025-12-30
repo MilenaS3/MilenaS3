@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou a Milena! 🚀
+### Junior Data Analyst | Python Developer
 
-<!--
-**MilenaS3/MilenaS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 Meus Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 [Análise de Performance e Logística - Olist](https://github.com/MilenaS3/Analise-Performance-Olist)
+> *SQL Server, Power BI, ETL*
+
+**O Problema:** A empresa precisava entender se estava cumprindo o prazo de entrega (SLA).
+**Solução:** Criei um Data Warehouse (Star Schema) e identifiquei que o Nordeste possui 15% mais atrasos.
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Repositório_no_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilenaS3/Analise-Performance-Olist)
+
+![Ver Projeto](https://github.com/MilenaS3/MilenaS3/blob/main/Dashboard.png)
+
+---
