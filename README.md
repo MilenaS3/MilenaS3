@@ -1,18 +1,33 @@
-# Olá, eu sou a Milena! 🚀
-### Junior Data Analyst | Python Developer
+# Olá, eu sou a Milena Soares! 👋
+
+### 👩‍💻 Desenvolvedora Fullstack Júnior | Graduanda em Engenharia de Software
+
+Atualmente no 7º período de Engenharia de Software, estou transicionando minha carreira para o desenvolvimento Fullstack. Tenho foco especial no ecossistema **.NET (C#)** para o back-end e **React** para o front-end. 
 
 ---
 
-## 📊 Meus Projetos
-
-### 📦 [Análise de Performance e Logística - Olist](https://github.com/MilenaS3/Analise-Performance-Olist)
-> *SQL Server, Power BI, ETL*
-
-**O Problema:** A empresa precisava entender se estava cumprindo o prazo de entrega (SLA).
-**Solução:** Criei um Data Warehouse (Star Schema) e identifiquei que o Nordeste possui 15% mais atrasos.
-
-[![Ver Projeto](https://img.shields.io/badge/Ver_Repositório_no_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilenaS3/Analise-Performance-Olist)
-
-![Ver Projeto](https://github.com/MilenaS3/MilenaS3/blob/main/Dashboard.png)
+### 🛠️ No meu arsenal técnico:
+- **Linguagens & Frameworks:** C#, ASP.NET Core, Python, JavaScript, React.
+- **Banco de Dados:** SQL Server, PostgreSQL.
+- **Data & BI:** Power BI, Tableau, Power Query.
+- **Arquitetura & Boas Práticas:** SOLID, Clean Code e POO.
 
 ---
+
+### 🎨 My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+</p>
+
+---
+
+### 📫 Contato:
+- 📧 milena.s.oliveira3@gmail.com
+- 📍 Goiânia, GO
