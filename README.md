@@ -28,6 +28,14 @@ Atualmente no 7º período de Engenharia de Software, estou transicionando minha
 
 ---
 
+## Certificações
+
+<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+  <img src="https://raw.githubusercontent.com/MilenaS3/MilenaS3/main/google-data-analytics-professional-certificate-v-3.png" width="250"/>
+</a>
+
+---
+
 ### 📫 Contato:
 - 📧 milena.s.oliveira3@gmail.com
 - 📍 Goiânia, GO
