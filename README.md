@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-header.svg" width="100%" alt="Milena Soares — Analista de Dados e Business Intelligence" />
+<img src="./github-header.svg" width="100%" alt="Milena Soares — Analista de Dados e Business Intelligence" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-soares12/)
 [![Email](https://img.shields.io/badge/Email-Contato-17495C?style=flat-square&logo=gmail&logoColor=white)](mailto:milena.s.oliveira3@gmail.com)
