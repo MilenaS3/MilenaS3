@@ -1,31 +1,78 @@
-# Olá, eu sou a Milena Soares! 👋
+<div align="center">
 
-### 👩‍💻 Desenvolvedora Fullstack Júnior | Graduanda em Engenharia de Software
+<img src="./assets/github-header.svg" width="100%" alt="Milena Soares — Analista de Dados e Business Intelligence" />
 
-Atualmente no 7º período de Engenharia de Software, estou transicionando minha carreira para o desenvolvimento Fullstack. Tenho foco especial no ecossistema **.NET (C#)** para o back-end e **React** para o front-end. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-soares12/)
+[![Email](https://img.shields.io/badge/Email-Contato-17495C?style=flat-square&logo=gmail&logoColor=white)](mailto:milena.s.oliveira3@gmail.com)
+![Localização](https://img.shields.io/badge/Goi%C3%A2nia-GO-34495E?style=flat-square)
 
----
+</div>
 
-### 🛠️ No meu arsenal técnico:
-- **Linguagens & Frameworks:** C#, ASP.NET Core, Python, JavaScript, React.
-- **Banco de Dados:** SQL Server, PostgreSQL.
-- **Data & BI:** Power BI, Tableau, Power Query.
-- **Arquitetura & Boas Práticas:** SOLID, Clean Code e POO.
+## Sobre mim
 
----
+Sou **Analista de Dados Júnior** e estou concluindo a graduação em **Engenharia de Software**. Comecei minha trajetória profissional com suporte a sistemas corporativos e automação comercial, o que me deu uma visão prática de processos, bancos de dados e necessidades dos usuários.
 
-### 🎨 My Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
----
+Hoje atuo com **Business Intelligence**, desenvolvendo dashboards e indicadores em **Power BI**, realizando transformações com **Power Query**, criando medidas em **DAX** e trabalhando com **SQL, PostgreSQL e integração de APIs REST**.
 
-## Certificações
+Tenho interesse em ampliar minha atuação em **análise e engenharia de dados**, com estudos em **Python, estatística e inteligência artificial**. Meu objetivo é desenvolver soluções que sejam tecnicamente consistentes e úteis para decisões de negócio.
 
-<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
-  <img src="https://raw.githubusercontent.com/MilenaS3/MilenaS3/main/google-data-analytics-professional-certificate-v-3.png" width="250"/>
-</a>
+## Experiência com Dados e BI
 
----
+- **Dashboards e indicadores:** desenvolvimento de relatórios para acompanhamento de resultados comerciais, financeiros e operacionais.
+- **Preparação de dados:** extração, limpeza e transformação de informações no Power Query, incluindo conexões com bancos de dados e APIs.
+- **Modelagem e análises:** estruturação de tabelas e relacionamentos, construção de medidas DAX e consultas SQL.
+- **Qualidade e documentação:** investigação de divergências nos dados, validação de indicadores e documentação de fontes, regras de transformação e medidas.
+- **Integrações de sistemas:** consumo e testes de APIs REST para consolidar informações de diferentes plataformas, incluindo CRM.
 
-### 📫 Contato:
-- 📧 milena.s.oliveira3@gmail.com
-- 📍 Goiânia, GO
+## Tecnologias
+
+### Dados e Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-207245?style=for-the-badge&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-18658C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-215F8A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Integração e ferramentas
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Desenvolvimento de software
+
+Minha formação em Engenharia de Software também inclui projetos e estudos de **desenvolvimento web e back-end**. Embora hoje meu foco profissional seja Dados e BI, essa base contribui para trabalhar com APIs, compreender aplicações e colaborar com equipes de desenvolvimento.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Em desenvolvimento:** Python para análise de dados, estatística, engenharia de dados e fundamentos de IA.
+
+## Formação e certificações
+
+- **Engenharia de Software** — UNIGOIÁS | Graduação em fase de conclusão.
+- **Google Data Analytics Professional Certificate** — Google / Coursera | 2026.
+- **Alura** — Power BI: Modelagem de Dados; Power BI: Conceitos do Uso de DAX; SQLite Online: Executando Consultas SQL; Data Storytelling; Git e GitHub.
+
+<div align="left">
+  <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+    <img src="https://raw.githubusercontent.com/MilenaS3/MilenaS3/main/google-data-analytics-professional-certificate-v-3.png" width="200" alt="Google Data Analytics Professional Certificate" />
+  </a>
+</div>
+
+## Portfólio
+
+Estou organizando projetos autorais de análise de dados para apresentar o processo completo — da coleta e modelagem à construção de indicadores e à comunicação dos resultados. Os projetos serão publicados aqui à medida que forem concluídos.
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/milena-soares12](https://www.linkedin.com/in/milena-soares12/)
+- **E-mail:** [milena.s.oliveira3@gmail.com](mailto:milena.s.oliveira3@gmail.com)
+- **Localização:** Goiânia, Goiás — Brasil

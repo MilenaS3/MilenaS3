@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="308" viewBox="0 0 1200 308" role="img" aria-labelledby="title desc">
+<title id="title">Milena Soares — Dados e Business Intelligence</title>
+<desc id="desc">Banner azul-escuro com nome, atuação profissional e ilustração vetorial de um gráfico de dados.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1929"/><stop offset="0.56" stop-color="#10283B"/><stop offset="1" stop-color="#0C3440"/></linearGradient>
+  <linearGradient id="teal" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#38AFAF"/><stop offset="1" stop-color="#87DBD1"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1B6074" stop-opacity="0.35"/><stop offset="1" stop-color="#45B9BC" stop-opacity="0.88"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#94C8CB" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="308" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="308" rx="20" fill="url(#dots)"/>
+<rect x="55" y="54" width="44" height="4" rx="2" fill="#62CBC1"/>
+<text x="55" y="82" fill="#A5CACF" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">DADOS  /  BUSINESS INTELLIGENCE</text>
+<text x="54" y="155" fill="#FFFFFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-.8">Milena Soares</text>
+<text x="57" y="201" fill="#D3E3E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22">Analista de Dados  •  Engenharia de Software</text>
+<rect x="55" y="236" width="475" height="38" rx="19" fill="#153C4A" stroke="#285F69" stroke-width="1"/>
+<text x="76" y="261" fill="#9CE0D7" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="600">Power BI     SQL     DAX     Power Query</text>
+<!-- Analytics panel -->
+<rect x="750" y="38" width="392" height="234" rx="18" fill="#112B3D" stroke="#315268" stroke-width="1.5"/>
+<text x="780" y="75" fill="#DAE9EC" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="600">Analytics</text>
+<circle cx="1094" cy="69" r="4" fill="#6ED1C7"/>
+<circle cx="1078" cy="69" r="4" fill="#376677"/>
+<path d="M779 111 H1114 M779 154 H1114 M779 197 H1114 M779 240 H1114" stroke="#2E5161" stroke-width="1" stroke-dasharray="4 7" opacity=".70"/>
+<rect x="795" y="195" width="25" height="45" rx="5" fill="url(#bar)"/>
+<rect x="837" y="176" width="25" height="64" rx="5" fill="url(#bar)"/>
+<rect x="879" y="188" width="25" height="52" rx="5" fill="url(#bar)"/>
+<rect x="921" y="147" width="25" height="93" rx="5" fill="url(#bar)"/>
+<rect x="963" y="157" width="25" height="83" rx="5" fill="url(#bar)"/>
+<rect x="1005" y="125" width="25" height="115" rx="5" fill="url(#bar)"/>
+<rect x="1047" y="138" width="25" height="102" rx="5" fill="url(#bar)"/>
+<path d="M806 170 L849 160 L891 165 L934 126 L976 139 L1018 103 L1060 111 L1100 92" stroke="#7DE1D3" stroke-width="3.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="806" cy="170" r="4" fill="#D6FFF5"/><circle cx="849" cy="160" r="4" fill="#D6FFF5"/><circle cx="891" cy="165" r="4" fill="#D6FFF5"/><circle cx="934" cy="126" r="4" fill="#D6FFF5"/><circle cx="976" cy="139" r="4" fill="#D6FFF5"/><circle cx="1018" cy="103" r="4" fill="#D6FFF5"/><circle cx="1060" cy="111" r="4" fill="#D6FFF5"/><circle cx="1100" cy="92" r="5" fill="#D6FFF5"/>
+</svg>
